@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\statistics-layouts\configuration-responsive\export-serializer.adoc
+// Generated at: 2025-10-12T13:38:28.589Z
